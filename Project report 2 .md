@@ -83,6 +83,4 @@ The *ESP32-CAM Object Counter* is a simple yet effective automation project that
 
 ---
 
-### *References*  
-- [ESP32-CAM Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32-cam.html)  
-- [OpenCV for ESP32](https://github.com/espressif/esp-who)
+
