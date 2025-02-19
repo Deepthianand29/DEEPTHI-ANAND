@@ -59,8 +59,9 @@ In industries, retail stores, and automation applications, counting objects is c
 - The ESP32-CAM runs a *web server* to display the *object count in real-time*.
 - The webpage fetches the latest count from ESP32-CAM using *AJAX requests*.
 
+![](https://i.imgur.com/d7zwtZ8.jpeg)
 
-![](https://i.imgur.com/qfPg7A9.jpeg)
+![](https://i.imgur.com/kKX8X5q.jpeg)
 ## *8. Advantages & Applications*  
 
 ### *Advantages*  
@@ -82,5 +83,7 @@ In industries, retail stores, and automation applications, counting objects is c
 The *ESP32-CAM Object Counter* is a simple yet effective automation project that enables real-time object counting using a camera module. The integration with a *web server* makes monitoring easy from any device connected to the same network.
 
 ---
+
+
 
 
